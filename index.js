@@ -24,7 +24,7 @@ function isIt() {
    * @return {Boolean}
    */
   this.string = function(value) {
-    return typeOf(value) === "string";
+    return typeOf(value) === 'string';
   };
   /**
    * Check if is boolean
@@ -32,7 +32,7 @@ function isIt() {
    * @return {Boolean}
    */
   this.boolean = function(value) {
-    return typeOf(value) === "boolean";
+    return typeOf(value) === 'boolean';
   };
   /**
    * Check if is undefined
@@ -40,7 +40,7 @@ function isIt() {
    * @return {Boolean}
    */
   this.undefined = function(value) {
-    return typeOf(value) === "undefined";
+    return typeOf(value) === 'undefined';
   };
   /**
    * Check if is null
