@@ -4,5 +4,9 @@
   "description": "Simple javascript library to type test any given value",
   "main": "index.js",
   "author": "Mesaque Francisco",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mesaquen/mzk-isit.git"
+  }
 }
