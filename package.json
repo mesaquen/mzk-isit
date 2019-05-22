@@ -1,7 +1,7 @@
 {
-  "name": "@mzk/isit",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@mesaquen/isit",
+  "version": "1.0.1",
+  "description": "Simple javascript library to type test any given value",
   "main": "index.js",
   "author": "Mesaque Francisco",
   "license": "MIT"
